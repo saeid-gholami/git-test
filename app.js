@@ -17,3 +17,11 @@ const getMe = (userToken) => {
 const getTickets = (userID) => {
     return true
 }
+
+const likePost = (post) => {
+    return true
+}
+
+const disLikePost = (post) => {
+    return false
+}
