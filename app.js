@@ -9,3 +9,7 @@ const isLogin = (username) => {
 const register = (userID) => {
     return true
 }
+
+const getMe = (userToken) => {
+    return false
+}
