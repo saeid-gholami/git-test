@@ -13,3 +13,7 @@ const register = (userID) => {
 const getMe = (userToken) => {
     return false
 }
+
+const getTickets = (userID) => {
+    return true
+}
