@@ -25,3 +25,7 @@ const getMe = (userID) => {
         return false
     }
 }
+
+const test = (username) => {
+    return true
+}
