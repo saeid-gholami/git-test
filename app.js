@@ -17,3 +17,11 @@ const getMe = (userToken) => {
 const getTickets = (userID) => {
     return true
 }
+
+const testInputs = (inputValue) => {
+    if (inputValue) {
+        return true
+    } else {
+        return false
+    }
+}
