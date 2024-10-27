@@ -26,6 +26,6 @@ const getMe = (userID) => {
     }
 }
 
-function testCode () {
-    return false
+const test = (username) => {
+    return true
 }
